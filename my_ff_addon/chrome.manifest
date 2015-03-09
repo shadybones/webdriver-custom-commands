@@ -1,0 +1,5 @@
+content   webdriver-customizer                 chrome/content/
+skin      webdriver-customizer   classic/1.0   chrome/skin/
+locale    webdriver-customizer   en-US         chrome/locale/en-US/
+
+overlay   chrome://browser/content/browser.xul   chrome://trusttheweb/content/overlay.xul

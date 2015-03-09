@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <RDF:Description RDF:about="rdf:#$fQ9+92"
+                     em:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"
+                     em:minVersion="3.6"
+                     em:maxVersion="38.*" />
+    <RDF:Description RDF:about="urn:mozilla:install-manifest"
+                     em:id="webdriver-customizer@outertia.com"
+                     em:type="2"
+                     em:name="Customize Webdriver"
+                     em:version="@VERSION@@RELEASE@"
+                     em:creator="shadybones"
+                     em:description="Adds custom controls to web driver server in firefox for WebDriver extenion in Java."
+                     em:iconURL="chrome://webdriver-customizer/skin/logo.png"
+                     em:homepageURL="https://github.com/shadybones/webdriver-custom-commands">
+        <em:targetApplication RDF:resource="rdf:#$fQ9+92"/>
+    </RDF:Description>
+</RDF:RDF>
