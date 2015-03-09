@@ -3,3 +3,6 @@ WebDriver is cool, but I want to be able to create my own commands which will be
 
 #This is a copy from a production project. This copy is NOT tested at all.
 The code is good but I may have forgotten to dot an "I" or cross a "T" somewhere.
+
+This code has two sides, the JS FF Addon side, and the Java WebDriver side. One side does nothing without the other.
+Up to you to get "my_ff_addon" content into FF.
